@@ -59,7 +59,7 @@ setlocal smartindent
 " comments
 setlocal textwidth=79
 
-setlocal nowrap     " Do not wrap lines automatically
+setlocal wrap     " Do not wrap lines automatically
 
 " Correct indentation after opening a phpdocblock and automatic * on every
 " line
