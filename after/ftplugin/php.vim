@@ -7,7 +7,7 @@ if !g:DisableAutoPHPFolding
 	" Don't use the PHP syntax folding
 	setlocal foldmethod=manual
 	" Turn on PHP fast folds
-	EnableFastPHPFolds 
+	" EnableFastPHPFolds 
 endif
 
 " Fix matchpairs for PHP (for matchit.vim plugin)
